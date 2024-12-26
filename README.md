@@ -6,6 +6,8 @@ P1075: Euler's Sieve
 
 P1161: Xor
 
+P1205: Image transfer
+
 P1303: Big Number
 
 P1614: Prefix sum
